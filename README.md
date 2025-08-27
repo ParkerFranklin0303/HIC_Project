@@ -1,3 +1,3 @@
 # HIC_Project
 
-The start of our beautiful HIC project!
+Open the .EXE file to run the prototype of what the mobile implementation of this app would look like!
